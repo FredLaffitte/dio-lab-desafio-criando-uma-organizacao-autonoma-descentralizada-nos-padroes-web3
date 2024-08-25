@@ -1,6 +1,6 @@
 # Desafio DIO - Criando uma Organização Autônoma Descentralizada nos Padrões Web3
 
-Projeto de desenvolvimento de uma DAO seguindo o Roteiro apresentado na vídeo aula do desafio. 
+Projeto de desenvolvimento de uma DAO seguindo o roteiro apresentado na vídeo-aula do desafio. 
 
 ---
 
