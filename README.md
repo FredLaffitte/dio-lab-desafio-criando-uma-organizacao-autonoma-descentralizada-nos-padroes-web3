@@ -2,6 +2,8 @@
 
 Projeto de desenvolvimento de uma DAO seguindo o Roteiro apresentado na vídeo aula do desafio. 
 
+---
+
 ### Documentação da DAO - CoffeeMugsDAO
 
 ---
@@ -89,6 +91,7 @@ A **CoffeeMugsDAO** é mais do que apenas uma loja de canecas; é uma comunidade
 2. Lançar a primeira coleção de canecas.
 3. Engajar a comunidade nas primeiras votações para seleção de designs.
 
+---
 
 ### Conecte-se comigo
 [Perfil DIO](https://www.dio.me/users/frederico/)
